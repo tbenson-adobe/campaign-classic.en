@@ -14,7 +14,7 @@ Transactional messaging (Message Center) is a Campaign module designed for manag
 
 >[!IMPORTANT]
 >
->Transactional messaging requires a specific licence. Please check your licence agreement.
+>Transactional messaging requires a specific License. Please check your License agreement.
 
 Adobe Campaign Message Center module is integrated into an information system which returns events to be changed into personalized transactional messages. These messages can be sent individually or in batches via email, SMS or push notifications.
 
